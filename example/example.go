@@ -1,10 +1,11 @@
 package main
 
 import (
-	"myProjects/Xlogger/Xlogger"
+	"myProjects/logger/Xlogger"
 )
 
 func main() {
+
 	log1 := Xlogger.NewLogger()
 	log1.SetLevel(Xlogger.DEBUG)                                 //设置输出级别，默认是ERROR
 	log1.SetConsole(false)                                       //设置是否是控制台输出，默认是true
