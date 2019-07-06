@@ -1,0 +1,8 @@
+
+2019/07/05 01:13:51 example.go:20: error: [222logger_errcccccccccccc4444444444444]
+
+2019/07/05 01:13:51 logger.go:210: example.go:20 [error: [222logger_errcccccccccccc4444444444444]]
+
+2019/07/06 22:47:40 example.go:20: error: [222logger_errcccccccccccc4444444444444]
+
+2019/07/06 22:47:40 logger.go:222: example.go:20 [error: [222logger_errcccccccccccc4444444444444]]
